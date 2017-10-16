@@ -2,7 +2,7 @@
 test for OA network analysis
 :panda_face:
 
-##Project title: Network Analysis of OA infrastructure Projects##
+## Project title: Network Analysis of OA infrastructure Projects
 
 **Project description**
 
