@@ -14,3 +14,5 @@ Benefits: Knowing where future infrastructure can be strengthened; where new nod
 1. who will help analyze? Find a network analysis expert to manage data once it is gathered and run analysis.
 2. identify metadata needed for network analysis: what data do I need to get the most meaningful network/project description without taxing contributors of the data (survey)
 3. partners to get contributors to the survey; need the data to come in.
+
+:smiley:
